@@ -1,0 +1,16 @@
+C:\Users\inaki\Source\Repos\inakirayman\School\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\inaki\Source\Repos\inakirayman\School\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inaki\Source\Repos\inakirayman\School\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\inaki\Source\Repos\inakirayman\School\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\inaki\Source\Repos\inakirayman\School\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\inaki\Source\Repos\inakirayman\School\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\inaki\Source\Repos\inakirayman\School\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\inaki\Source\Repos\inakirayman\School\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\inaki\Source\Repos\inakirayman\School\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\inaki\Source\Repos\inakirayman\School\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\inaki\Source\Repos\inakirayman\School\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\inaki\Source\Repos\inakirayman\School\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\inaki\Source\Repos\inakirayman\School\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\inaki\Source\Repos\inakirayman\School\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\inaki\Source\Repos\inakirayman\School\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\inaki\Source\Repos\inakirayman\School\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             //test
             Console.WriteLine("Hello World!");
-            Console.ReadLine()       
+            Console.ReadLine();   
 
 
                 
